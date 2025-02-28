@@ -1,0 +1,6 @@
+DISPLAY_WIDTH = 700
+DISPLAY_HEIGHT = 700
+FPS = 60
+BACKGROUND_COLOR = (1, 1, 1, 1)  # White background
+GRID_SIZE = (145, 108)  # 108 rows, 145 columns
+
