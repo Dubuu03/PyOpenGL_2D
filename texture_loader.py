@@ -1,10 +1,10 @@
 import numpy as np
 
 COLOR_MAP = {
-    "A": (0.00, 0.00, 0.00),  # Background color
+    "A": (0.19, 0.21, 0.22),  # Background color
     "1": (0.00, 0.00, 0.00),  # Black
-    "2": (0.19, 0.18, 0.18),  # Dark Gray
-    "3": (0.57, 0.58, 0.62),  # Light Gray
+    "2": (0.36, 0.36, 0.36),  # Dark Gray
+    "3": (0.58, 0.58, 0.56),  # Light Gray
     "Q": (1.00, 1.00, 1.00),  # White
     "W": (0.99, 0.37, 0.09),  #  Orange-Red
     "E": (1.00, 0.80, 0.01),  # Yellow
