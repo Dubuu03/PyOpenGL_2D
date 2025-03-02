@@ -8,7 +8,7 @@ layout (location=2) in vec3 instanceColor;
 
 out vec3 PixelColor;
 
-uniform vec2 pixelSize;  // Change to vec2
+uniform vec2 pixelSize;  
 
 void main()
 {
