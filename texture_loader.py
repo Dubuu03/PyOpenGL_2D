@@ -1,7 +1,7 @@
 import numpy as np
 
 COLOR_MAP = {
-    "A": (0.19, 0.21, 0.22),  # Background color
+    "A": (0.00, 0.00, 0.00),  # Background color
     "1": (0.00, 0.00, 0.00),  # Black
     "2": (0.36, 0.36, 0.36),  # Dark Gray
     "3": (0.58, 0.58, 0.56),  # Light Gray
