@@ -30,7 +30,8 @@ def main():
     pygame.init()
     pygame.display.set_mode((config.DISPLAY_WIDTH, config.DISPLAY_HEIGHT), DOUBLEBUF | OPENGL)
     glClearColor(*config.BACKGROUND_COLOR)
-    
+    pygame.display.set_caption("Narciso, Dustin Drix M.")
+
     # Create and activate shader program
     shader_program = create_shader_program()
     glUseProgram(shader_program)
